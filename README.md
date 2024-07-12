@@ -8,5 +8,5 @@ The project follows the structure of o2 MPM:
 - Media channels used are TV, OLV, OOH, SEA
 - And Effective pricing.
 
-The effects and ranking of OLV and TV remain stable except when introducing the effects for "o2 kombivorteil campaign". During which, the ranking changes but and efficiencies are very to each other.
+The effects and ranking of OLV and TV remain stable except when introducing "o2 kombivorteil campaign". During which, the ranking changes  and efficiencies are very to each other.
 
