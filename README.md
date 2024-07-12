@@ -1,4 +1,4 @@
-# o2 TV OLV Channel Efficiency
+# o2 TV/OLV Channel Efficiency
 
 The client wants to know which channel among TV and Online Video is producing more sales i.e more efficient with respect to spends?
 
